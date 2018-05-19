@@ -1,0 +1,8 @@
+Access Key ID:
+AKIAJJQ2I276LOZMH5TQ
+Secret Access Key:
+IB2ZTxXHylhJhsEId3KrUHOIFxZTiKJrQLkkA/FL
+
+http://webservices.amazon.com/onca/xml?%20Service=AWSECommerceService&AWSAccessKeyId=AKIAJJQ2I276LOZMH5TQ&AssociateTag=dolko-22&Operation=ItemSearch&Keywords=the%20hunger%20games&SearchIndex=Books
+
+http://webservices.amazon.com/onca/xml?%20Service=AWSECommerceService&AWSAccessKeyId=AKIAJJQ2I276LOZMH5TQ&AssociateTag=dolko-22&Operation=ItemSearch&Keywords=the%20hunger%20games&SearchIndex=Books&Signature=teehee&Timestamp=2018-05-19T21:51:55.000Z
