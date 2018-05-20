@@ -58,6 +58,11 @@ def update_reorder_point(itemName, value):
 
     return "Sorry, I could not find the item you ask for"
 
+
+#example of how to update the reorder point integrate this into when datarobot does its update daily
 update_reorder_point("Sun Power E20", 4)
+
+
+#need to also 
 
 
