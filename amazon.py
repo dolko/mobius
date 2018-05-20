@@ -1,5 +1,4 @@
 import bottlenose
-import xmltodict
 
 AWS_ACCESS_KEY_ID = 'AKIAJPOZXW5IYMPUSPUA'
 AWS_SECRET_ACCESS_KEY = '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'
